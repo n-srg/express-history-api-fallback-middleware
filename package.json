@@ -1,0 +1,27 @@
+{
+  "name": "express-history-api-fallback-middleware",
+  "description": "Tiny express history api fallback for webpack bundler",
+  "version": "1.0.0",
+  "author": "Sergey Nikitin",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/n-srg/express-history-api-fallback-middleware#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n-srg/express-history-api-fallback-middleware"
+  },
+  "bugs": {
+    "url": "https://github.com/n-srg/express-history-api-fallback-middleware/issues"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "express",
+    "spa",
+    "history",
+    "middleware"
+  ]
+}
