@@ -1,7 +1,7 @@
 {
   "name": "express-history-api-fallback-middleware",
   "description": "Tiny express history api fallback for webpack bundler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Sergey Nikitin",
   "license": "MIT",
   "main": "index.js",
